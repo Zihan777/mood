@@ -14,7 +14,7 @@ body {
 }
 
 .image-container img {
-    width: 400px; /* 根据需要调整图片大小 */
+    width: 150px; /* 根据需要调整图片大小 */
     transition: transform 0.3s ease;
 }
 
